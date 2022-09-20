@@ -1,0 +1,73 @@
+Qualidade para o processo de software
+    Auxilia as empresas a construirem uma estrutura
+    adequada e robusta para a produção do software
+
+PERGUNTA
+    Qual é a proposta da ISO/IEC 15504 para as organizações
+    que desejam essa certificação ?
+        D) Melhoria do processo de software e determinação da capacidade.
+
+CMMI - Capability Maturity Model Integration
+    Objetivo: Avaliar a maturidade das empresas que fornecem
+    software.
+    
+CMMI- Níveis de maturidade
+    Nível 1: o processo é imprevisivelm pouco controlado
+    e muito reativo
+    Nível 2: o processo ocorre por projetos e a qualidade
+    é alcançada por repetição.
+    Nível 3: o processo ocorre em nível organizacional e é
+    provativo
+    Nível 4: o processo é medido e controlado
+    Nível 5: o processo é constantemente melhorado.
+
+PERGUNTA
+    O CMMI é um modelo para qualidade em software, mas
+    qual é a sua proposta ?
+        E) Descreve orientações de quais processos devem
+        ser implementados para atingir a maturidade
+        no desenvolvimento de software, mas não descreve o
+        "como fazer"
+
+CMMI - Áreas
+    -Areas de processos
+        Representam todas as boas práticas de engenharia de software
+
+    -Areas de gerenciamento de projeotos
+        Descrevem e definem as boas práticas para o planejameto,
+        a execução, o controle e o encerramento dos projetos de software.
+
+    -Areas de engenharia
+        Envolvem as áreas de processos voltadas para a construção
+        e a manutenção do software são ela:
+        
+    -Areas de suporte
+        Relacionam as areas de processo que servem de apoio
+        ao desenvolvimento e à manutenção do software
+
+PERGUNTAS
+    Quais são as areas de processos do CMMI ?
+        B)Gerência de processos, gerencia de projetos,
+        suporte e engenharia.
+
+Melhoria de processos de software brasileiro(MPS.BR)
+    Ojetivo: incentivar as pequenas e as médias empresas brasileiras
+    de produção de software;
+
+Níveis de maturidade MPS.BR
+    A- Otimizado
+    B- Gerenciado
+    C- Definido
+    D- Largamente definido
+    E- Parcialmente definidi
+    F- Gerenciado
+    G- Parcialmente gerenciado
+
+PERGUNTA
+    Quais são os níveis de maturidade do MPS.br ?
+        A) 7 níveis de maturidade
+
+        
+
+
+

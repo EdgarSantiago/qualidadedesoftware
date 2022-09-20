@@ -1,0 +1,57 @@
+Conceitos sobre qualidade de software
+    Segundo a norma NBR ISO(2000), qualidade de
+    software é definida como um conjunto de
+    caracteristicas que devem ser alcançadas em
+    um determinado grau para que o produto
+    atendas às necessidades de seus usuários.
+
+A importância da qualidade
+    Os sistemas computacionais são a base de
+    controle de todas as empresas. A dependência
+    da tecnologia é visivel a todos: usuários
+    e empresas. imagique oque o mau funcionamento
+    de um software pode causar
+
+Garantia de qualidade
+    A garantia de qualidade avalia se as caracteristicas
+    do produto estão de acordo com os padrões e se as
+    atividades estão ocorrendo conforme o planejado.
+
+Controle de qualidade
+    São atividades de qualidade realizadas após o produto
+    de software estar pronto. Seu objetivo é permitir o aceite
+    do produto, atestando que a aplicação está de acordo com 
+    as especificações.
+
+Sistema de gestão da qualidade(SGQ)
+    Padroniza os processos de uma empresa para a criação
+    de seu produto final, proporcionando a satisfação
+    de seus cliente e a melhoria continua dos seu processos
+
+PERGUNTA
+    No controle de qualidade, avalia-se se as ações de qualidade
+    planejadas estão sendo executadas de acordo com o processo
+    estabelecido. Essa atividade chama-se Auditoria.
+    Quais são os tipos de Auditoria existentes ?
+        B)Auditoria de produto, de processo e de sistema de qualidade
+
+NBR 9000
+    Normas de gestão de qualidade e garantia de qualidade
+    serve como arcabouço-padrão para definir como as demais Normas
+    específicas devem ser utilizadas.
+
+PERGUNTA
+    Qual é a proposta da NBR 9000 para as organizações
+    que desejam implanta-la ?
+        D) Gestão e garantia da qualidade
+
+Pergunta
+    Qual é a finalidade da implantação da ISO 12207
+    para uma empresa de software ?
+        C) Padronizar e aferir qualidade em quaisquer
+        ciclos de vida de softwares utilizados.
+
+PERGUNTA
+    Qual é a finalidade da ISO/IEC 25000 ?
+        A) É a nova versão das normas ISO/IEC 9126 e
+        ISO/IEC 14598
